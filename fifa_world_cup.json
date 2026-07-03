@@ -16,7 +16,7 @@
     {
         "name": "BeIN MAX 1",
         "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
-        "url": "https://tmaxapp.site/beinmax1.m3u8",
+        "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
         "group": "BeIN",
         "useProxy": false
     },
