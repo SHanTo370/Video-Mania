@@ -71,5 +71,5 @@ http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="Bangla",CCTV China
 https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="Sports",Bein Max 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="Sports",Fussballtv
 https://cp11.adabmedia.com/hls2/sport.m3u8
