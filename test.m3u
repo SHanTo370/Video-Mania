@@ -1,39 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AnandaTV.bd@SD",Ananda TV (1080p)
-https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd@SD",Ananda TV (720p)
-https://tvsen6.aynaott.com/anandatv/index.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd@SD",Ananda TV (480p)
-http://103.99.249.139/anandatv/index.m3u8
-#EXTINF:-1 tvg-id="AsianTV.bd@SD",Asian TV (720p)
-https://tvsen6.aynaott.com/asiantv/index.m3u8
-#EXTINF:-1 tvg-id="ATNBangla.bd@SD",ATN Bangla (720p)
-https://tvsen5.aynaott.com/atnbangla/index.m3u8
-#EXTINF:-1 tvg-id="ATNMusic.bd@SD",ATN Music (360p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd@SD",ATN News (1080p)
-https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd@SD",ATN News (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
-#EXTINF:-1 tvg-id="BanglaTV.bd@SD",Bangla TV (720p)
-https://tvsen6.aynaott.com/banglatv/index.m3u8
-#EXTINF:-1 tvg-id="BanglaVision.bd@SD",Bangla Vision (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 tvg-id="BanglaVision.bd@SD",Bangla Vision (720p)
-https://tvsen5.aynaott.com/banglavision/index.m3u8
-#EXTINF:-1 tvg-id="BijoyTV.bd@SD",Bijoy TV (720p)
-https://tvsen6.aynaott.com/bijoytv/index.m3u8
-#EXTINF:-1 tvg-id="BoishakhiTV.bd@SD",Boishakhi TV (720p)
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-id="BoishakhiTV.bd@SD",Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-id="BTVChattogram.bd@SD",BTV Chattogram (1080p)
-https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8
-#EXTINF:-1 tvg-id="BTVChattogram.bd@SD",BTV Chattogram (480p)
-https://tvsen6.aynaott.com/btvctg/index.m3u8
-#EXTINF:-1 tvg-id="BTVNational.bd@SD",BTV National (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
-#EXTINF:-1 tvg-id="BTVNational.bd@SD",BTV National (1080p)
+
+#EXTINF:-1 tvg-name="Dambulla Sixers Vs Galle Gallants" tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png" group-title="Fancode",Fancode1
+https://bd-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Fancode",Fancode2
+https://bd-mc-pdlive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Atp 250   Millenium Estoril Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Fancode",Fancode3
+https://bd-mc-pdlive.fancode.com/mumbai/143511_english_hls_a68c16eafb19863_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-15218" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17846167211020x576women.jpg" group-title="Fancode",Tapmad
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 tvg-id="BTVNational.bd@SD",BTV National (720p)
 https://tvsen6.aynaott.com/btvhd/index.m3u8
