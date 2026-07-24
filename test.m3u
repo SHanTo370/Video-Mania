@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-name="Dambulla Sixers Vs Galle Gallants" tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_SPORTY_APP.png" group-title="Fancode",Fancode1
 https://bd-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Fancode",Fancode2
-https://bd-mc-pdlive.fancode.com/mumbai/143505_english_hls_32d7fbdda521157_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Club-Friendlies-old-match-card.png" group-title="Fancode",Fancode2
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rosenborg_bk_vs_manchester_united_4248010_english.m3u8
 
 #EXTINF:-1 tvg-name="Atp 250   Millenium Estoril Open 2026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Fancode",Fancode3
 https://bd-mc-pdlive.fancode.com/mumbai/143511_english_hls_a68c16eafb19863_1ta-di_h264/index.m3u8
